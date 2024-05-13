@@ -6,12 +6,10 @@
 />
 </p>
 
-<p align="center">
-    Preview do podcast
-</p>
+
 
 <div align="center">
-    <audio src="./output/podcast_capcut.mpeg" controls title="Podcast editado"></audio>
+    <audio src="./output/podcast_capcut.mpeg" controls title="Podcast editado"> Preview do podcast</audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
