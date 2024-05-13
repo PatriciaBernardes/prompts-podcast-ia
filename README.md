@@ -9,7 +9,7 @@
 
 
 <div align="center">
-    <audio src="./output/podcast_capcut.mpeg" controls title="Podcast editado"> Preview do podcast</audio>
+    <audio src="./output/podcast_capcut.mp3" controls title="Podcast editado"> Preview do podcast</audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
