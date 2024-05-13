@@ -2,7 +2,7 @@
 <p align="center">
 <img 
     src="./assets/capa.png"
-    width="430"
+    width="300"
 />
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_capcut.mpeg" controls title="Podcast editado"></audio>
+    <audio src="./output/podcast_capcut.mpeg" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
